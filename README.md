@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/raxlar/prueba/_apis/build/status/johnyocampo.prueba_devops?branchName=master)](https://dev.azure.com/raxlar/prueba/_build/latest?definitionId=1?branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
